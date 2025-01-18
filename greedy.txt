@@ -1,0 +1,144 @@
+Selected player: /players/G/grahasha01.htm
+Connections covered by this player: 45
+Remaining uncovered connections: 451
+Selected player: /players/M/McCoJo01.htm
+Connections covered by this player: 36
+Remaining uncovered connections: 415
+Selected player: /players/B/BabiJa20.htm
+Connections covered by this player: 32
+Remaining uncovered connections: 383
+Selected player: /players/B/BradJe20.htm
+Connections covered by this player: 27
+Remaining uncovered connections: 356
+Selected player: /players/A/ArmsRa01.htm
+Connections covered by this player: 26
+Remaining uncovered connections: 330
+Selected player: /players/F/FitzRy00.htm
+Connections covered by this player: 25
+Remaining uncovered connections: 305
+Selected player: /players/R/raynedav01.htm
+Connections covered by this player: 23
+Remaining uncovered connections: 282
+Selected player: /players/M/MarsCa00.htm
+Connections covered by this player: 22
+Remaining uncovered connections: 260
+Selected player: /players/C/CompTo00.htm
+Connections covered by this player: 18
+Remaining uncovered connections: 242
+Selected player: /players/M/McClTe00.htm
+Connections covered by this player: 16
+Remaining uncovered connections: 226
+Selected player: /players/R/RoyaMa20.htm
+Connections covered by this player: 15
+Remaining uncovered connections: 211
+Selected player: /players/V/VannNi00.htm
+Connections covered by this player: 14
+Remaining uncovered connections: 197
+Selected player: /players/M/MetcEr00.htm
+Connections covered by this player: 12
+Remaining uncovered connections: 185
+Selected player: /players/C/CassMa00.htm
+Connections covered by this player: 12
+Remaining uncovered connections: 173
+Selected player: /players/D/DaviCa01.htm
+Connections covered by this player: 11
+Remaining uncovered connections: 162
+Selected player: /players/H/HaucTi20.htm
+Connections covered by this player: 11
+Remaining uncovered connections: 151
+Selected player: /players/N/nednejoe01.htm
+Connections covered by this player: 10
+Remaining uncovered connections: 141
+Selected player: /players/O/OmamPa00.htm
+Connections covered by this player: 10
+Remaining uncovered connections: 131
+Selected player: /players/S/SpurMi00.htm
+Connections covered by this player: 9
+Remaining uncovered connections: 122
+Selected player: /players/S/SchrAd20.htm
+Connections covered by this player: 9
+Remaining uncovered connections: 113
+Selected player: /players/C/ChanCh00.htm
+Connections covered by this player: 8
+Remaining uncovered connections: 105
+Selected player: /players/B/ButlCr99.htm
+Connections covered by this player: 8
+Remaining uncovered connections: 97
+Selected player: /players/R/RichKy20.htm
+Connections covered by this player: 8
+Remaining uncovered connections: 89
+Selected player: /players/B/BannJu20.htm
+Connections covered by this player: 7
+Remaining uncovered connections: 82
+Selected player: /players/C/CampIb00.htm
+Connections covered by this player: 7
+Remaining uncovered connections: 75
+Selected player: /players/S/SaubEr00.htm
+Connections covered by this player: 6
+Remaining uncovered connections: 69
+Selected player: /players/O/OwenTe00.htm
+Connections covered by this player: 6
+Remaining uncovered connections: 63
+Selected player: /players/A/AgajBe20.htm
+Connections covered by this player: 6
+Remaining uncovered connections: 57
+Selected player: /players/D/DrauSh00.htm
+Connections covered by this player: 5
+Remaining uncovered connections: 52
+Selected player: /players/T/TrayKe20.htm
+Connections covered by this player: 5
+Remaining uncovered connections: 47
+Selected player: /players/R/RobeAn00.htm
+Connections covered by this player: 4
+Remaining uncovered connections: 43
+Selected player: /players/N/nugenmik01.htm
+Connections covered by this player: 4
+Remaining uncovered connections: 39
+Selected player: /players/S/SadoTr00.htm
+Connections covered by this player: 4
+Remaining uncovered connections: 35
+Selected player: /players/W/WardJi02.htm
+Connections covered by this player: 4
+Remaining uncovered connections: 31
+Selected player: /players/B/BrowJo02.htm
+Connections covered by this player: 3
+Remaining uncovered connections: 28
+Selected player: /players/R/RodgDo99.htm
+Connections covered by this player: 3
+Remaining uncovered connections: 25
+Selected player: /players/S/SlauT.20.htm
+Connections covered by this player: 3
+Remaining uncovered connections: 22
+Selected player: /players/W/WashTe01.htm
+Connections covered by this player: 3
+Remaining uncovered connections: 19
+Selected player: /players/O/OverMa00.htm
+Connections covered by this player: 3
+Remaining uncovered connections: 16
+Selected player: /players/F/ForbKa00.htm
+Connections covered by this player: 3
+Remaining uncovered connections: 13
+Selected player: /players/T/TateBe00.htm
+Connections covered by this player: 3
+Remaining uncovered connections: 10
+Selected player: /players/D/davisgre01.htm
+Connections covered by this player: 2
+Remaining uncovered connections: 8
+Selected player: /players/C/ClowJa00.htm
+Connections covered by this player: 2
+Remaining uncovered connections: 6
+Selected player: /players/M/MaulAr00.htm
+Connections covered by this player: 2
+Remaining uncovered connections: 4
+Selected player: /players/K/KennDe00.htm
+Connections covered by this player: 1
+Remaining uncovered connections: 3
+Selected player: /players/P/PekoDo20.htm
+Connections covered by this player: 1
+Remaining uncovered connections: 2
+Selected player: /players/R/RossOl20.htm
+Connections covered by this player: 1
+Remaining uncovered connections: 1
+Selected player: /players/C/CeciCh00.htm
+Connections covered by this player: 1
+Remaining uncovered connections: 0
